@@ -1,0 +1,6 @@
+{
+  "appId": "com.overstack.game",
+  "appName": "Overstack",
+  "webDir": "www",
+  "android": { "backgroundColor": "#1b1430" }
+}
